@@ -17,3 +17,4 @@
 - squeeze lime
 - add salt, cumin, and bp
 - and mix well
+- serve with chips
